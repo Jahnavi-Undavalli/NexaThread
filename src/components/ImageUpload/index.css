@@ -1,0 +1,25 @@
+/* src/components/ImageUpload.css */
+input[type='file'] {
+    margin-bottom: 10px;
+  }
+  
+  /* src/components/ProductDisplay.css */
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 5px;
+  }
+  
+
+  
+
+  .input-style{
+    height:130px;
+  }
+  .button{
+    height:30px;
+    width:70px;
+  }

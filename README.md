@@ -1,3 +1,9 @@
+#Getting problem
+
+This project requires a Google Cloud API key, which requires billing. However, the billing process only accepts Visa cards, so it cannot be completed. Once we have inserted the API key, our project will function as expected.
+Thank you
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
